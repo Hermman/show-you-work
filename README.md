@@ -1,2 +1,2 @@
 # show-you-work
-knowledge record
+knowledge record.
